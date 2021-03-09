@@ -1,4 +1,4 @@
-<a href="https://suspicious-gates-41ac94.netlify.app/">See it here</a>
+A weather app where you can see the info for the given day <a href="https://suspicious-gates-41ac94.netlify.app/">See it here</a>
 
 # Getting Started with Create React App
 
